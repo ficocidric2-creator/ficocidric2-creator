@@ -1,16 +1,18 @@
-## Hi there 👋
+Salut, moi c'est Cido 👋
 
-<!--
-**ficocidric2-creator/ficocidric2-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur autodidacte 🇧🇯 — je construis des sites web, apps mobiles et outils numériques, principalement en mode mobile-first. Actuellement entre Cotonou, Bénin, et la Côte d'Ivoire.
 
-Here are some ideas to get you started:
+Fondateur de P2C Studio (*Produce, Create, Connect*) — studio créatif digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Projets 
+
+- [Freelance Toolkit](https://github.com/ficocidric2-creator/freelance-toolkit)** — Générateur de devis/factures + générateur de QR code, pour freelances | [démo live](https://freelance-toolkit-two.vercel.app)
+
+## 🛠️ Stack & outils
+
+`HTML` `CSS` `JavaScript` `React` `Vite` `Firebase` `Supabase` `Capacitor`
+
+## 📫 Me contacter
+
+- Instagram : [@p2c_studio](https://instagram.com/p2c_studio)
+- Ouvert aux projets freelance web/mobile en Afrique de l'Ouest
