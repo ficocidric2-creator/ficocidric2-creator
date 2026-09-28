@@ -1,4 +1,4 @@
-Salut, moi c'est Cido 👋
+Salut, moi c'est Cido 
 
 Développeur autodidacte 🇧🇯 — je construis des sites web, apps mobiles et outils numériques, principalement en mode mobile-first. Actuellement entre Cotonou, Bénin, et la Côte d'Ivoire.
 
